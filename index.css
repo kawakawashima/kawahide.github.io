@@ -11,7 +11,7 @@ body {
   font: 400 16px/1.5 exo, ubuntu, "segoe ui", helvetica, arial, sans-serif;
   text-align: center;
 
-  background: url("../kawahide.github.io/haikei.jpg") repeat 0 0;
+  background-image: url("../kawahide.github.io/haikei.jpg");
   
 
 }
